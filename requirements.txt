@@ -1,0 +1,5 @@
+PyQt5
+joblib
+scikit-learn
+pyinstaller
+tldextract
